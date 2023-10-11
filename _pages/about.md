@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    
+
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -25,5 +25,3 @@ I study the role of technology in fostering sustainable living in contemporary l
 My primary research fields are Human-Computer Interaction (HCI) and Computer-Supported Cooperative Work (CSCW). My research has been published in top HCI venues, including CHI, CSCW, DIS, and GROUP and has been recognized with best paper and honorable mention awards.
 
 I completed my Ph.D. in the [Department of Information Science](https://www.colorado.edu/cmci/infoscience) at [University of Colorado Boulder](https://www.colorado.edu/) advised by [Stephen Voida](https://stephen.voida.com/).
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

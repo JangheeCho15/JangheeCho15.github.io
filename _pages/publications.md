@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Note that this list is incomplete. You can always see my recent and on-going work by taking a look at my [Google Scholar](https://scholar.google.com/citations?user=g5768LUAAAAJ&hl=en)
+description: Note that this list is incomplete. You can always see my recent and on-going work by taking a look at my Google Scholar.
 nav: true
 nav_order: 1
 ---
