@@ -10,6 +10,7 @@ nav_order: 2
 My research program is dedicated to harnessing the potential of technology to empower individuals in their quest for meaningful and sustainable lives. It centers around the use of design as a catalyst for creating cultural significance and shaping specific ways of living. By combining design with rigorous qualitative and quantitative research methods, I seek to gain insights into human cognitive processes and socio-cultural aspects as they are experienced by individuals and as a member of a community. With this knowledge as a foundation, I reimagine how current and future technologies might be integrated into people's daily lives, challenging conventional assumptions in technology design. My research contributes to the development of system requirements and design implications that facilitate conceptual innovations as critical technical practices. These insights can assist HCI practitioners and researchers in examining the societal and ethical ramifications of emerging interfaces and systems.
 
 <hr>
+<hr>
 
 ### Selected projects
 
@@ -18,7 +19,7 @@ My research program is dedicated to harnessing the potential of technology to em
 The future of work encompasses the transformation of work, the workforce, and workplace paradigms, including the emergence of remote and hybrid work models in response to shifting social and technological landscapes. My research delves into how technology can foster more flexible, inclusive, and adaptive work environments that cater to the diverse needs and aspirations of the workforce. As an illustration, one of my projects envisions the use of future technologies to create sustainable and fulfilling work-from-home arrangements.
 
 
-
+<hr>
 
 ##### *Technology for Reflection*
 

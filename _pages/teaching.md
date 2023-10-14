@@ -7,6 +7,9 @@ nav: true
 nav_order: 5
 ---
 
+<hr>
+<hr>
+
 ##### *University of Colorado Boulder*
 
 **INFO 1101: Computation and Society**,  2023 Summer
