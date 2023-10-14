@@ -20,6 +20,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am an Assistant Professor at the [Division of Industrial Design](https://cde.nus.edu.sg/did/) at [National University of Singapore](https://nus.edu.sg/).
 
+[test](/_posts/2015-07-15-code.md)
+
 I study the role of technology in fostering sustainable living in contemporary life, marked by latent yet pervasive anxiety and uncertainty. My work primarily involves conducting design research and empirical studies to explore how technology can contribute to human well-being, flourishing, and the cultivation of joy. I approach these investigations with humanistic epistemological commitments, drawing on a diverse set of social science and design theories and methods.
 
 My primary research fields are Human-Computer Interaction (HCI) and Computer-Supported Cooperative Work (CSCW). My research has been published in top HCI venues, including CHI, CSCW, DIS, and GROUP and has been recognized with best paper and honorable mention awards.
