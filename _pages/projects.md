@@ -1,13 +1,13 @@
 ---
 layout: page
-title: research
-permalink: /research/
-description: 
+title: projects
+permalink: /projects/
+description:
 
 
-nav: false
+nav: true
 nav_order: 2
-display_categories: [Futures of Work, Technology for Reflection]
+display_categories: [Futures of Work, Technology for Reflection, Digital Health, Human-AI Interaction]
 horizontal: false
 ---
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am delighted to share that I'm joining as a tenure-track Assistant Professor in the Division of Industrial Design at the University of National Singapore
+I am delighted to share that I'm joining as a tenure-track Assistant Professor in the Division of Industrial Design at the University of National Singapore.
