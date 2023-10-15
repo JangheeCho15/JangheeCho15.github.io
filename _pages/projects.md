@@ -5,7 +5,7 @@ permalink: /projects/
 description: My research program is dedicated to harnessing the potential of technology to empower individuals in their quest for meaningful and sustainable lives. It centers around the use of design as a catalyst for creating cultural significance and shaping specific ways of living.
 
 
-nav: false
+nav: true
 nav_order: 3
 display_categories: [Futures of Work, Technology for Reflection and Well-being, Digital Health, Human-AI Interaction]
 horizontal: false
