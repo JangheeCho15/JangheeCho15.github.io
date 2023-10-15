@@ -1,4 +1,4 @@
-##### *Technology for Reflection*
+##### *Technology for Reflection and Well-being*
 
 Reflection is a meaning-making process enacted through a conversation between a human being and their experiences, an object, or a situation, allowing people to engage in alternative ways of interpreting them (Cho et al. 2022). Reflective practices empowers people to engage in alternative interpretations, especially when dealing with complex, uncertain, and unique phenomena that may not readily align with formal learning or guidelines. Such flexibility is pivotal when individuals structure their lives to promote well-being.
 
