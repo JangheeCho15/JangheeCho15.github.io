@@ -3,10 +3,8 @@ layout: page
 title: research
 permalink: /research/
 description: My research program is dedicated to harnessing the potential of technology to empower individuals in their quest for meaningful and sustainable lives. It centers around the use of design as a catalyst for creating cultural significance and shaping specific ways of living.
-nav: true
+nav: false
 nav_order: 3
-display_categories: [Futures of Work, Technology for Reflection and Well-being, Human-AI Interaction]
-horizontal: false
 ---
 
 My research program is dedicated to harnessing the potential of technology to empower individuals in their quest for meaningful and sustainable lives. It centers around the use of design as a catalyst for creating cultural significance and shaping specific ways of living.
