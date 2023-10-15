@@ -6,7 +6,7 @@ description: My research program is dedicated to harnessing the potential of tec
 
 
 nav: false
-nav_order: 1
+nav_order: 3
 display_categories: [Futures of Work, Technology for Reflection and Well-being, Digital Health, Human-AI Interaction]
 horizontal: false
 ---
