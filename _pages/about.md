@@ -20,8 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am an Assistant Professor at the [Division of Industrial Design](https://cde.nus.edu.sg/did/) at [National University of Singapore](https://nus.edu.sg/).
 
-I am looking for highly-motivated PhD students with a strong interest in HCI and Design Research. If you're enthusiastic about these areas of study, please send me your CV along with a brief introduction of your research interests.
-
 > I am looking for highly-motivated PhD students with a strong interest in HCI and Design Research. If you're enthusiastic about these areas of study, please send me your CV along with a brief introduction of your research interests.
 {: .block-tip }
 
