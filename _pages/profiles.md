@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /research/
 title: research
-description: My research program is dedicated to harnessing the potential of technology to empower individuals in their quest for meaningful and sustainable lives. It centers around the use of design as a catalyst for creating cultural significance and shaping specific ways of living.
+description: My research program is dedicated to harnessing the potential of technology to empower individuals in their quest for meaningful and sustainable lives. It centers around the use of design as a catalyst for creating cultural significance and shaping specific ways of living. Here are the current and featured research projects:
 nav: true
 nav_order: 1
 
@@ -20,7 +20,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info:
   - align: right
-    image:
+    image: 6.jpg
     content: AI.md
     image_circular: false # crops the image to make it circular
     more_info:
