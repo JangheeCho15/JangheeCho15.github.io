@@ -23,4 +23,15 @@ The future of work encompasses the transformation of work, the workforce, and wo
 
 ##### *Technology for Reflection*
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/designspace.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
+
+
+
 Reflection is a meaning-making process enacted through a conversation between a human being and their experiences, an object, or a situation, allowing people to engage in alternative ways of interpreting them. Reflective practices enable people to respond to complex, uncertain, and unique phenomena by complementing knowledge from formal learning or guidelines, which is important when people organize their lives in ways that promote wellbeing. My research focuses on exploring how technology can support and enhance reflective practices, with a strong emphasis on the role of human agency in this context.
