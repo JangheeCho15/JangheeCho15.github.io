@@ -1,0 +1,3 @@
+##### *Human-Centered AI*
+
+My research explores the potential of symbiotic partnerships with AI-driven technologies with a specific focus on data collection, integration, and presentation across diverse modalities, ranging from self-tracking to mixed reality applications. Specifically, I investigate how people interpret and leverage AI-driven technology by examining individuals' folk theories and mental models of these technologies. In light of this understanding, my work aims to reimagine how AI-driven technologies can seamlessly integrate into people's daily lives or enhance their professional endeavors by formulating design implications and system requirements.
