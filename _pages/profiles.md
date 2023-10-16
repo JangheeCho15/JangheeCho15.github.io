@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info:
   - align: left
-    image:
+    image: designspace.jpg
     content: reflection.md
     image_circular: false # crops the image to make it circular
     more_info:
