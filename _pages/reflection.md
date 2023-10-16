@@ -4,4 +4,4 @@ Reflection is a meaning-making process enacted through a conversation between a 
 
 My work revolves around the exploration of how technology can support reflective practices, with a strong emphasis on the pivotal role of human agency in this context. By fostering reflection, my work seeks to investigate how technology can enhance well-being and help individuals thrive in life, particularly in addressing precarious situations.
 
-<p style="font-size: 10px;"><small> A design space of commercial self-tracking apps illustrating clusters of design features organized by different level of reflection and locus of agency. </small></p>
+<p style="font-size: 10px;"><small> image: A design space of commercial self-tracking apps illustrating clusters of design features organized by different level of reflection and locus of agency. </small></p>
