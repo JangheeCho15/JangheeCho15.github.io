@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am an Assistant Professor at the [Division of Industrial Design](https://cde.nus.edu.sg/did/) at [National University of Singapore](https://nus.edu.sg/).
 
-**I am looking for highly-motivated PhD students with a strong interest in HCI and Design Research. If you're enthusiastic about these areas of study, please send me your CV along with a brief introduction of your research interests.**
+**I am looking for highly-motivated PhD students and undergraduate researchers with a strong interest in HCI and Design Research. Please See the [work with me](https://jangheecho15.github.io/prospective/) page for details.**
 
 
 I study the role of technology in fostering sustainable living in contemporary life, marked by latent yet pervasive anxiety and uncertainty. My work primarily involves conducting design research and empirical studies to explore how technology can contribute to human well-being, flourishing, and the cultivation of joy. I approach these investigations with humanistic epistemological commitments, drawing on a diverse set of social science and design theories and methods.

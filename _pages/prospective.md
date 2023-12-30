@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /prospective/
-title: Work with Me
+title: work with me
 description: Thank you for your interest in working with me!
 nav: true
 nav_order: 5
@@ -13,13 +13,13 @@ I am seeking highly motivated PhD students, undergraduate research assistants, a
 
 **Important**: I kindly request that you refrain from sending generic emails, as they may not receive a response. I encourage you to take a moment to thoroughly read this page and explore some of my recent research and publications.
 
-When reaching out to me via email for the first time, use the subject line [Prospective]. Additionally, please include a description of your research interests and background, and don't forget to attach your CV or resume, and transcripts (only undergraduate). I appreciate your attention to these details.
+When reaching out to me via email for the first time, use the subject line **[Prospective]**. Additionally, please include a description of your research interests and background, and don't forget to attach your CV or resume, and transcripts (only undergraduate). I appreciate your attention to these details.
 
 
 
 #### Prospective PhD Students:
 
-If you are interested in working with me, please apply to National University of Singapore (NUS) Division of Industrial Design (DID) as a PhD student and specify my name as a potential advisor. For more information, including admission requirements, please click [here](https://cde.nus.edu.sg/did/postgraduate/). NUS also provides [various scholarships](https://nusgs.nus.edu.sg/scholarships-list/?pgf) that you may want to explore to determine your eligibility.
+If you are interested in working with me, please apply to the National University of Singapore (NUS) [Division of Industrial Design (DID)](https://cde.nus.edu.sg/did/) as a Ph.D. student and specify my name as a potential advisor. For more information, including admission requirements, please click [here](https://cde.nus.edu.sg/did/postgraduate/). NUS also provides [various scholarships](https://nusgs.nus.edu.sg/scholarships-list/?pgf) that you may want to explore to determine your eligibility.
 
 I am interested in working on a number of topics listed below. However, this list is by no means exhaustive, and I am seeking students who can generate their own ideas and are passionate about specific research projects aligned with their values and vocation. Some of the research topics of interest include:
 
