@@ -29,6 +29,7 @@ I am interested in working on a number of topics listed below. However, this lis
   <li>Designing for reflection</li>
   <li>Technology design driven by values and cultural heritage from Asia</li>
   <li>Critical, speculative, discursive design for AI-driven technologies </li>
+  <li>Future modalities for data representation and presentation</li>
 </ul>
 
 While your skill sets and prior experience are crucial for your Ph.D. application, I place additional value on your resilience and open-mindedness in approaching diverse research methodologies. These qualities are essential for making meaningful contributions in the fields of HCI and design. Also, I extend a warm welcome to students, especially those from underrepresented groups in Design and Computing, to reach out and collaborate with me on exploring potential projects together.
