@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-12-08 07:59:00-0400
+date: 2024-04
 inline: true
 related_posts: false
 ---
 
-I visited Singapore University Management to deliver a research seminar to the HCI group, presenting a talk titled "Design for Sustainable Life in the Work-From-Home Era".
+Together with colleagues in Singapore, we will host a <a href = "https://sites.google.com/view/sghci-meetup-2024">Singapore HCI meetup 2024</a> at NUS!
