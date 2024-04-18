@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-11-01 07:59:00-0400
+date: 2024-03
 inline: true
 related_posts: false
 ---
 
-I am delighted to share that I'm joining as a tenure-track Assistant Professor in the Division of Industrial Design at the University of National Singapore.
+Great news! Our team has secured the International SDG Collaboration Program grant from the University of Sydney to conduct research on the futures of care workers.
